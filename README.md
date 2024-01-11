@@ -1,2 +1,4 @@
-# vscode-settings
-VSCode Settings to help developer's code better
+## 🗿 Visual Studio Code Extensions and Settings
+
+- Collection of Visual Studio Code extensions and settings that make coding more efficient and easier.
+- Try these extensions and settings to make coding easier. They can make your work simpler.
